@@ -35,3 +35,17 @@ def exp(x):
         err = abs(t / s)    # compute approximate relative error
     # return block
     return s
+
+def cos(x)
+    """The cos function.
+
+    Parameters
+    ----------
+    x : array_like
+        The argument(s) to the cos function.
+
+    Returns
+    -------
+    float or numpy.ndarray
+        The result of the cos function.
+    """
