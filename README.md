@@ -1,7 +1,6 @@
-# GOPH 619 - Advanced Computational Methods  for Geophysicists
+# GOPH 619 - Advanced Computational Methods for Geophysicists
 
-*Semester:* W2023  
-*Instructor:* B. Karchewski  
-*Author:* G. Pambou
+*Semester:* Winter 2023 \
+*Instructor:* B. Karchewski
 
-An example repository setup for a simple Python package.
+Code examples from the labs for GOPH 619.
